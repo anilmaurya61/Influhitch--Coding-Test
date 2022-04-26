@@ -1,0 +1,35 @@
+.card-wraper{
+    display: flex;
+    justify-content: center;
+}
+.card_cont{
+    width: 25vw;
+    margin-top: 5%;
+}
+.Insta-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Insta-img img{
+    margin-top: 1rem;
+}
+.card-2{
+    margin-top: 1rem;
+    height: 2rem;
+    padding-top: 2.3%;
+}
+.warning{
+    height: 3rem;
+    width: 95%;
+    margin-left: 2.5%;
+    margin-top: 2%;
+}
+.text1{
+    color:'grey';
+    align-items:'center';
+}
+.card__2{
+    height:'5vh';
+    margin-top:'2%';
+}

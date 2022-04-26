@@ -1,0 +1,86 @@
+
+.video-container {
+     height: 78vh;
+    border-radius: 20px;
+    background-color: white; 
+    overflow: scroll; 
+     scroll-snap-type: y mandatory; 
+     scrollbar-width: none; 
+
+}
+.video-container::-webkit-scrollbar { 
+    display: none;  /* Safari and Chrome */
+}
+.videos{
+    position:relative;
+}
+.fa{
+    position: absolute;
+    bottom: 7%;
+    left: 10%;
+}
+.fa h4{
+    margin: 0;
+    color: white;
+    margin-top: 11%;
+    margin-left: 25%;
+}
+
+.icon-styling{
+    position: absolute;
+    bottom: 3%;
+    left:12%;
+}
+.like{
+    cursor: pointer;
+    color: #e74c3c
+}
+.unlike{
+    cursor: pointer;
+    color: white;
+}
+.comment{
+    position: absolute;
+    bottom: 2.7%;
+    left:28%;
+    color: white;
+}
+.modal-container{
+    display: flex;
+    flex-wrap: wrap;
+    height: 100%;
+    width: 100%;
+}
+.video-modal{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.video-modal video{
+    height: 85vh;
+}
+.comment-modol{
+    margin-top: 2rem;
+    width: 50%;
+    height: 100%;
+}
+.card1{
+    margin-top: 1rem;
+    width: 100%;
+    height: 65vh; 
+    overflow-y: scroll; 
+    scroll-snap-type: y mandatory; 
+    scrollbar-width: none; 
+    border: 1px solid gainsboro;
+    border-radius: 5px;
+}
+.card1::-webkit-scrollbar { 
+    display: none;  /* Safari and Chrome */
+}
+.card2{
+    width: 100%;
+    margin-top: .5rem;
+}

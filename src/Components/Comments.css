@@ -1,0 +1,8 @@
+.comment-cont{
+    width:50vh;
+}
+.comment-item{
+    display: flex;
+    flex-wrap: wrap;
+    justify-items: center;
+}

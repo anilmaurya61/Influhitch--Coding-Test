@@ -1,0 +1,52 @@
+.login-card-wraper{
+    display: flex;
+    justify-content: center;
+}
+.loginCard{
+   
+    width: 25vw;
+    margin-top: 12%;
+    margin-left: 1rem;
+}
+.insta-logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.insta-logo img{
+    margin-top: 1rem;
+}
+.card-2{
+    margin-top: 1rem;
+    height: 2rem;
+    padding-top: 2.3%;
+}
+.warning{
+    height: 3rem;
+    width: 95%;
+    margin-left: 2.5%;
+    margin-top: 2%;
+}
+.imgcar{
+    background-image: url('../Assets/insta.png');
+    margin-top: 1.5rem;
+    height: 590px;
+    width: 441px;
+    background-size: cover;
+}
+.car{
+    margin-top: 5.8rem;
+    margin-left: 9rem;
+    height: 440px;
+    width: 17vw;
+}
+.text1{
+
+}
+.text2{
+
+}
+.classcard2{
+    margin-top: .5rem;
+    height: 3rem;
+}
