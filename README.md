@@ -1,4 +1,38 @@
-# Reels Clone
+# Reels App
+A simple and easy to use Instagram reels clone made using reactjs and firebase where users can signup and upload short videos, like posts uploaded by other users and comment on them.
+
+
+## Installation
+
+* Clone the repository 
+    ```
+    $ git clone https://github.com/anilmaurya61/Reels-Clone
+    $ cd Reels
+    ```
+
+* Install dependencies
+    
+    ```
+    $ npm install
+    ```
+    
+* Start the application
+    
+    ```
+    $ npm start
+    ```
+
+## Tech Used
+
+* ReactJS
+
+* Firebase
+
+* Material-UI
+
+* Intersection Observer API
+
+## Preview
 
 ![Screenshot (296)](https://user-images.githubusercontent.com/56387037/167766610-400ae982-e376-408d-92c6-b18458f9491b.png)
 
