@@ -34,6 +34,8 @@ A simple and easy to use Instagram reels clone made using reactjs and firebase w
 
 ## Preview
 
+#### Login Page
+
 ![Screenshot (296)](https://user-images.githubusercontent.com/56387037/167766610-400ae982-e376-408d-92c6-b18458f9491b.png)
 
 ![Screenshot (295)](https://user-images.githubusercontent.com/56387037/167766625-6adc44aa-218c-448a-a55a-1ac6203062d9.png)
